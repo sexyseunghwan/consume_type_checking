@@ -1,0 +1,2 @@
+# consume_type_checking
+consume_type_checking
