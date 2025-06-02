@@ -65,7 +65,7 @@ impl<Q: QueryService, E: EsQueryService> MainController<Q, E> {
                 break;
             }    
 
-            for _i in 1..=30 {
+            for _i in 1..=100 {
                 println!();    
             }
         }
